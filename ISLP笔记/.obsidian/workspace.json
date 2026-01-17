@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "9b8b2fe120dab88d",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a8e5d8f95754cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cc22c7f81b38519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_统计学习核心/08_非线性模型/局部回归.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "局部回归"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d70e40668497992",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed1092d6b8f8aa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c5fd8aa2a6dcb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2f4d39887c677e38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8db3c0539144dc47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "7e97d4c4745b1d72",
+    "type": "split",
+    "children": [
+      {
+        "id": "543af124a547df01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f679df33e99024dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_MOC/ISLP_学习导航.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ISLP_学习导航 的反向链接列表"
+            }
+          },
+          {
+            "id": "dde4b15be47f2b94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_MOC/ISLP_学习导航.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ISLP_学习导航 的出链列表"
+            }
+          },
+          {
+            "id": "0f74b246d619c0bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e3264121a8af0271",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_统计学习核心/08_非线性模型/局部回归.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "局部回归 的大纲"
+            }
+          },
+          {
+            "id": "e8842b926074ce56",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e62cc747e8b0153f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "10_统计学习核心/03_线性回归体系/模型参数估计与检验.md"
+              },
+              "icon": "lucide-info",
+              "title": "模型参数估计与检验的笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "31c5fd8aa2a6dcb9",
+  "lastOpenFiles": [
+    "未命名.md",
+    "10_统计学习核心/08_非线性模型/局部回归.md",
+    "10_统计学习核心/08_非线性模型/回归样条.md",
+    "10_统计学习核心/08_非线性模型/非线性模型概论.md",
+    "10_统计学习核心/08_非线性模型/多项式回归与阶梯函数.md",
+    "10_统计学习核心/08_非线性模型/广义加性模型GAM.md",
+    "10_统计学习核心/08_非线性模型/平滑样条.md",
+    "10_统计学习核心/03_线性回归体系/预测区间与置信区间.md",
+    "10_统计学习核心/08_非线性模型",
+    "20_Python算法实现/Matplotlib 绘图框架详解.md",
+    "10_统计学习核心/未命名.md",
+    "20_Python算法实现/Statsmodels与Sklearn对比.md",
+    "20_Python算法实现/Statsmodels_GLM配置指南.md",
+    "20_Python算法实现/Pandas 数据预处理.md",
+    "20_Python算法实现/NumPy数组操作详解.md",
+    "20_Python算法实现/KNN_sklearn实现.md",
+    "20_Python算法实现/子集选择与逐步回归实战.md",
+    "20_Python算法实现/逻辑回归与判别分析实现.md",
+    "20_Python算法实现/交叉验证实战.md",
+    "20_Python算法实现/等高线图与热图.md",
+    "20_Python算法实现/线性回归_statsmodels实现.md",
+    "20_Python算法实现/正则化与降维实战.md",
+    "20_Python算法实现/Bootstrap实战.md",
+    "10_统计学习核心/03_线性回归体系/共线性与VIF.md",
+    "99_资源文件/统计学习核心名词速查表.md",
+    "10_统计学习核心/01_基础概念/主成分分析（待后期完善）.md",
+    "10_统计学习核心/07_线性模型选择与正则化/模型选择指标.md",
+    "未命名.base",
+    "数据库节点关系_20260116_192843.txt",
+    "数据库详细信息_20260116_192843.txt",
+    "数据库目录_20260116_192843.txt",
+    "数据库索引.base",
+    "scan_result_20260116_191428.txt",
+    "scan_result_20260116_191400.txt",
+    "10_统计学习核心/07_线性模型选择与正则化",
+    "未命名 1.base",
+    "Pasted image 20260114195639.png",
+    "旧版/05_附件/Pasted image 20260113112918.png",
+    "05_附件/Pasted image 20260113112918.png"
+  ]
+}
