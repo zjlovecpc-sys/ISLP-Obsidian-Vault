@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42a8e5d8f95754cf",
+        "id": "99fdfcd9e3078e7c",
         "type": "tabs",
         "children": [
           {
-            "id": "9cc22c7f81b38519",
+            "id": "9721a9f5c6b45932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_资源文件/统计学习核心名词速查表.md",
+                "file": "20_Python算法实现/非线性模型实战.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "统计学习核心名词速查表"
+              "title": "非线性模型实战"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 200
   },
   "right": {
     "id": "7e97d4c4745b1d72",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_资源文件/统计学习核心名词速查表.md",
+                "file": "20_Python算法实现/交叉验证实战.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "统计学习核心名词速查表 的大纲"
+              "title": "交叉验证实战 的大纲"
             }
           },
           {
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +196,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9cc22c7f81b38519",
+  "active": "9721a9f5c6b45932",
   "lastOpenFiles": [
+    "20_Python算法实现/非线性模型实战.md",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名.canvas",
+    "未命名.base",
+    "20_Python算法实现/交叉验证实战.md",
     "20_Python算法实现/Statsmodels与Sklearn对比.md",
+    "99_资源文件/统计学习核心名词速查表.md",
+    "10_统计学习核心/06_重采样方法/留一法交叉验证.md",
+    "10_统计学习核心/03_线性回归体系/最小二乘法.md",
     "10_统计学习核心/01_基础概念/参数与非参数方法.md",
     "10_统计学习核心/01_基础概念/监督学习.md",
     "10_统计学习核心/08_非线性模型/局部回归.md",
@@ -217,22 +227,14 @@
     "20_Python算法实现/KNN_sklearn实现.md",
     "20_Python算法实现/子集选择与逐步回归实战.md",
     "20_Python算法实现/逻辑回归与判别分析实现.md",
-    "20_Python算法实现/交叉验证实战.md",
     "20_Python算法实现/等高线图与热图.md",
     "20_Python算法实现/线性回归_statsmodels实现.md",
-    "20_Python算法实现/正则化与降维实战.md",
-    "20_Python算法实现/Bootstrap实战.md",
-    "10_统计学习核心/03_线性回归体系/共线性与VIF.md",
-    "99_资源文件/统计学习核心名词速查表.md",
-    "未命名.base",
     "数据库节点关系_20260116_192843.txt",
     "数据库详细信息_20260116_192843.txt",
     "数据库目录_20260116_192843.txt",
     "数据库索引.base",
     "scan_result_20260116_191428.txt",
     "scan_result_20260116_191400.txt",
-    "10_统计学习核心/07_线性模型选择与正则化",
-    "未命名 1.base",
     "Pasted image 20260114195639.png",
     "旧版/05_附件/Pasted image 20260113112918.png",
     "05_附件/Pasted image 20260113112918.png"
